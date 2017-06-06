@@ -1,0 +1,6 @@
+E:\Project\C#\C_sharp_2.0\C_sharp_2.0\bin\Debug\C_sharp_2.0.exe.config
+E:\Project\C#\C_sharp_2.0\C_sharp_2.0\obj\Debug\C_sharp_2.0.csprojResolveAssemblyReference.cache
+E:\Project\C#\C_sharp_2.0\C_sharp_2.0\bin\Debug\C_sharp_2.0.exe
+E:\Project\C#\C_sharp_2.0\C_sharp_2.0\bin\Debug\C_sharp_2.0.pdb
+E:\Project\C#\C_sharp_2.0\C_sharp_2.0\obj\Debug\C_sharp_2.0.exe
+E:\Project\C#\C_sharp_2.0\C_sharp_2.0\obj\Debug\C_sharp_2.0.pdb
